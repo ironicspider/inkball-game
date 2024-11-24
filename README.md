@@ -8,8 +8,6 @@ A Java-based interactive game developed using the Processing library and Gradle 
 - [Features](#features)
 - [Setup](#setup)
 - [Controls](#controls)
-- [Extension](#extension)
-- [License](#license)
 
 ## Description
 
